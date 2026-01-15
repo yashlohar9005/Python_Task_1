@@ -3,7 +3,9 @@ This repository contains the completion of the foundational Python setup and scr
 
 📁 Project Structure
 Plaintext
+
 Python_Task_1/
+
 ├── Simple_Print_Function_Code/
 
 │   ├── Simple_hello_world.py
@@ -38,39 +40,44 @@ ______________________________________________________________________
 The Script (hello_world.py)
 The script was developed to move from hardcoded variables to dynamic user input, following clean coding practices with descriptive comments.
 
-Python
-Simple print function code:
-# Import the 'date' class from the datetime module. This allows us to work with dates in Python
+#Python
+
+#Simple print function code:
+
 from datetime import date
 
-# Store the details in a variable
 name = "Yash Sunil Lohar"
+
 internship_role = "Python Developer Intern"
 
-# Get today's current date and store it in a variable
 today_date = date.today()
 
-# Print details
 print("Name:- ", name)
+
 print("Internship Role:- ", internship_role)
+
 print("Today's Date:- ", today_date)
 
-User – input code:
-# Import the 'date' class from the datetime module. This allows us to work with dates in Python
+
+
+#User – input code:
+
 from datetime import date
 
-# Take details input from the user at runtime
 name_1 = input("Enter your name:- ")
+
 internship_role_1 = input("Enter your internship role:- ")
 
-# Get today's current date
 today_date_1 = date.today()
 
-# Print details
 print("\n--- Details ---")
+
 print("Name:- ", name_1)
+
 print("Internship Role:- ", internship_role_1)
+
 print("Today's Date:- ", today_date_1)
+
 
 ______________________________________________________________________
 🚀 Step 3: Execution & Results
