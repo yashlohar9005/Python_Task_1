@@ -5,13 +5,21 @@ This repository contains the completion of the foundational Python setup and scr
 Plaintext
 Python_Task_1/
 ├── Simple_Print_Function_Code/
+
 │   ├── Simple_hello_world.py
+
 │   └── simple_hello_world_output.png
+
 │
+
 ├── User_Input_Code/
+
 │   ├── user_input_hello_world.py
+
 │   └── user_input_hello_world_output.png
+
 │
+
 └── README.md
 ______________________________________________________________________
 🛠️ Step 1: Environment Setup
